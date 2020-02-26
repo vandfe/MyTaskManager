@@ -1,0 +1,39 @@
+V0
+	Desktop design
+	Tablet design
+	Mobile design
+
+V1
+	Get into MyTaskManager
+		Register
+		Login
+		Password forget
+	Team Config
+		User Crud
+		User Right
+		Delete Team
+	Project
+		Project List
+		Project Crud
+	Task
+		Task List
+		Task Crud
+
+V2
+	Affect task
+		User Crud
+	Date
+		Project Date
+			Start
+			End
+		Task Date 
+			Start
+			End
+
+V3
+	Task Dependencies
+	Calendar
+	Gantt
+	Workload
+		Per User
+		Per Project
